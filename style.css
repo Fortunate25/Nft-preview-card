@@ -5,6 +5,8 @@ body{
         min-height: 100vh;
         display: grid;
         place-content: center;
+        height: 100%;
+        width: 70%;
 
 }
 
@@ -24,6 +26,7 @@ body{
     border-radius: 17px;
     margin: 70px auto;
     width: 300px;
+
 
 
 }
